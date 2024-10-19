@@ -1,0 +1,43 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 253px;
+}
+
+.logoImg {
+    width: 100%;
+}
+
+.input {
+    width: 600px;
+}
+
+.inputSearch {
+    width: 100%;
+    background-color: rgb(211, 208, 208);
+    border: none;
+    height: 30px;
+    padding: 6px 12px;
+    border-radius: 8px;
+}
+
+
+
+.storeLinks {
+    display: flex;
+    gap: 40px;
+}
+
+.btnlogin {
+    color: white;
+    background-color: #c92071;
+    border-radius: 8px;
+    text-align: center;
+    min-width: 70px;
+    padding: 12px 18px;
+    text-decoration: none;
+
+}
